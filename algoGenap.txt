@@ -1,0 +1,5 @@
+if bil mod 2 = 0 then
+ Ket = “Bilangan Genap”
+else
+ Ket = “Bilangan Ganjil”
+Endif
